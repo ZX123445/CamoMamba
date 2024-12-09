@@ -1,0 +1,3 @@
+test:
+max-Fmeasure=0.802 mean-Fmeasure=0.785 max-Emeasure=0.923 mean-Emeasure=0.912  Smeasure=0.857 MAE=0.029
+
